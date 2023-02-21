@@ -1,5 +1,2 @@
-let num = 12;
-
-if(num%2==0){
-console.log(even);
-}
+let num=10;
+(num %2==0) ? console.log("even") : console.log("odd");
